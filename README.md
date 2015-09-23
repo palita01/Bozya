@@ -1,3 +1,5 @@
 # Bozya
+hi!! guys!!
+this project belong to Palita.
+this file get about... 
 
-this project belong to work
